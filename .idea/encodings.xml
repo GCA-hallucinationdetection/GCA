@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Graph-based Contextual Consistency Comparison/construct_graph.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Graph-based Contextual Consistency Comparison/extract_nodes&amp;edges.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Graph-based Contextual Consistency Comparison/modeling_rgcn.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PHD/RV/wikibio-dataset/entities_with_logical_error.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PHD/RV/wikibio-dataset/get_graph_result.py" charset="GBK" />
+  </component>
+</project>
